@@ -45,7 +45,8 @@ menu:
     
 # Build settings
 #theme: minima
-theme: jekyll-theme-hydejack
+#theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack
 
 plugins:
   - jekyll-feed
