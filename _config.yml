@@ -21,18 +21,32 @@
 title: eurAIka
 email: euraika.sciences@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  An AI powered research platform designed to accelerate every phase of the scientific discovery process.
+url: "https://euraika-sciences.github.io"  
 #baseurl: "euraika-sciences" # the subpath of your site, e.g. /blog
 baseurl: ""
-url: ""
+
 #url: "https://euraika-sciences.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-mastodon_username: jekyllrb
+mastodon_username: 
 github_username:  euraika-sciences
 
+# Sidebar entries
+menu:
+  - title: The Whiteboard
+    url:   /the-whiteboard/
+  - title: The Librarian
+    url:   /the-librarian/    
+  - title: The Coder
+    url:   /the-coder/
+  - title: About
+    url:   /about/
+  - title: FAQ
+    url:   /faq/
+    
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-theme-hydejack
+
 plugins:
   - jekyll-feed
 
