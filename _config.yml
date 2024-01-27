@@ -30,6 +30,9 @@ baseurl: ""
 mastodon_username: 
 github_username:  euraika-sciences
 
+# Permalink to index page
+permalink: /index/
+
 # Sidebar entries
 menu:
   - title: The Whiteboard
