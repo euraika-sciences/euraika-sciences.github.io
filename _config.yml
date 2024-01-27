@@ -33,15 +33,15 @@ github_username:  euraika-sciences
 # Sidebar entries
 menu:
   - title: The Whiteboard
-    url:   /the-whiteboard/
+    url:   /the-whiteboard.html/
   - title: The Librarian
-    url:   /the-librarian/    
+    url:   /the-librarian.html/    
   - title: The Coder
-    url:   /the-coder/
+    url:   /the-coder.html/
   - title: About
-    url:   /about/
+    url:   /about.html/
   - title: FAQ
-    url:   /faq/
+    url:   /faq.html/
     
 # Build settings
 #theme: minima
