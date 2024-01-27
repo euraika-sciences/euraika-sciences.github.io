@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to eurAIka!"
 date:   2024-01-18 17:27:45 -0500
 categories: eurAIka update
+permalink: /welcome-to-euraika/
 ---
 We're standing on the shoulders of giants in building **eurAIka**. It started as a proof-of-concept project to determine how easily the components could integrate into the open-source note-taking app [Obsidian](https://obsidian.md/). With hundreds of built-in and community written plugins, we were able to find the ones to make **eurAIka** possible. 
 
