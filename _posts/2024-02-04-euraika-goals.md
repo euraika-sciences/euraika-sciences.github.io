@@ -1,7 +1,10 @@
+---
 layout: post
 title:  "eurAIka goals"
 date:   2024-02-07
 categories: eurAIka update
+permalink: /2024-02-04-euraika-goals/
+---
 
 One of the main goals of eurAIka is to help with generating code. We face two problems with scientific coding. The first is that we're not software engineers and we tend to hack  something together that works even if it isn't well written or efficient. 
 
@@ -19,7 +22,7 @@ How might this work? Interacting with a large language model seems like a logica
 - [Neuro-symbolic AI](https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai) - links low-level perception to high-level reasoning with goals of transparency and explainability.
 - [Neural databases](https://www.marktechpost.com/2021/08/26/facebook-ai-introduces-neural-databases-a-new-approach-which-enables-machines-to-search-unstructured-data-and-connect-the-fields-of-databases-and-nlp/) - uses [machine learning](https://medium.com/thirdai-blog/neural-database-next-generation-context-retrieval-system-for-building-specialized-ai-agents-with-861ffa0516e7) to reduce the cost of maintaining large databases.
 - [Large Action Models](https://medium.com/version-1/the-rise-of-large-action-models-lams-how-ai-can-understand-and-execute-human-intentions-f59c8e78bc09) - combine multiple agents to achieve goals. An example is [LangGraph](https://python.langchain.com/docs/langgraph) for building multi-actor systems on top of large language models.
-- [RL/LLM](RL/LLM) - Reinforcement Learning (RL) is a machine learning method that is goal-directed. The system tries to solve the given problem and then gets a score based on how closely the solution comes to the desired outcome. Combining RL with LLMs gives the method gives this technique a head start by eliminating most of the clearly impractical solutions.
+- [RL/LLM]([RL/LLM](https://huggingface.co/learn/deep-rl-course/en/unitbonus3/language-models)) - Reinforcement Learning (RL) is a machine learning method that is goal-directed. The system tries to solve the given problem and then gets a score based on how closely the solution comes to the desired outcome. Combining RL with LLMs gives the method gives this technique a head start by eliminating most of the clearly impractical solutions.
 - [Graph-based prompting and reasoning](https://cameronrwolfe.substack.com/p/graph-based-prompting-and-reasoning) - combines multiple chains of thought and uses non-linear reasoning similar to human thought processes.
 - A method to [connect LLMs](https://gorilla.cs.berkeley.edu/) to an array of tools via APIs
 
