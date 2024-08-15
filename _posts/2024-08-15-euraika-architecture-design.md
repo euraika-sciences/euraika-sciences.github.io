@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "eurAIka Architecture Design"
-date:   2024-08-315 15:06:00 -0500
+date:   2024-08-15 15:06:00 -0500
 categories: eurAIka update
 ---
 
